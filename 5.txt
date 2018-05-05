@@ -1,0 +1,56 @@
+DT NN `` VBZ NNP '' IN DT NN VBN IN DT NN CD NNS IN NN IN DT NN . 
+The striker `` takes guard '' on a crease drawn on the pitch four feet in front of the wicket . 
+DT JJ NN , VBN IN DT NN , VBZ IN DT JJ NN IN DT NN IN DT NN . 
+The other batsman , known as the non-striker , waits at the opposite end of the pitch near the bowler . 
+DT NN POS NNS VBP TO VB DT VBG IN NNS CC TO VB DT NN . 
+The bowler 's objectives are to prevent the scoring of runs and to dismiss the batsman . 
+DT RB VBZ DT NN IN CD NNS VBN IN DT JJ NN . 
+An over is a set of six deliveries bowled by the same bowler . 
+DT JJ RB VBZ VBN IN DT JJ NN IN DT NN IN DT JJ NN . 
+The next over is bowled from the other end of the pitch by a different bowler . 
+DT NN VBZ VBN RB IN NNP , NNP NNP CC NNP , DT JJ NN , NNP NNP CC DT NNP NNP . 
+The sport is followed primarily in Australasia , Great Britain and Ireland , the Indian subcontinent , southern Africa and the West Indies . 
+NNS POS NN , WDT VBZ VBN CC VBN RB , VBZ RB VBN NNP NNP . 
+Women 's cricket , which is organised and played separately , has also achieved international standard . 
+IN NNP NNP , DT NN `` NN '' VBZ TO VB VBN DT NN IN NNP CC NNP . 
+In Old French , the word `` criquet '' seems to have meant a kind of club or stick . 
+NN VBD DT JJ JJ NN IN RB IN DT NN . 
+Cricket remained a low-key local pursuit for much of the century . 
+VBG TO DT JJ NN NNP NNP , EX VBD DT `` JJ NN IN NN IN DT NN '' IN CD . 
+According to the social historian Derek Birley , there was a `` great upsurge of sport after the Restoration '' in 1660 . 
+IN IN NN , NN NN CC NN NNS , NN VBD VBN TO VB DT VBG NN . 
+Along with prizefighting , horse racing and blood sports , cricket was perceived to be a gambling sport . 
+DT NN VBD JJ NN IN DT JJ NN TO VB NNP POS JJ NN . 
+The game underwent major development in the 18th century to become England 's national sport . 
+NNP RB VBD DT NN POS JJ NN CC DT NN IN DT NNS IN NN . 
+MCC quickly became the sport 's premier club and the custodian of the Laws of Cricket . 
+JJ NNS VBN IN DT JJ NN IN DT JJ NN VBD DT CD NN NN CC NN IN NN -LRB- NNP -RRB- . 
+New Laws introduced in the latter part of the 18th century included the three stump wicket and leg before wicket -LRB- lbw -RRB- . 
+DT JJ NN VBD NNP NNP VBD IN JJ NN CC RB VBP NN . 
+The 19th century saw underarm bowling superseded by first roundarm and then overarm bowling . 
+DT NNS VBD NNP IN DT NN IN NNP NN VBN TO DT NN IN DT NNP NNPS , VBG IN NNP IN CD . 
+Both developments were controversial.Organisation of the game at county level led to the creation of the county clubs , starting with Sussex in 1839 . 
+IN NNP CD , DT CD VBG NNP NNS VBD DT JJ NNP NN , WDT VBD IN CD . 
+In December 1889 , the eight leading county clubs formed the official County Championship , which began in 1890 . 
+DT JJ CD NNS IN DT JJ NN NN VBP VBN VBN DT `` JJ NN IN NN '' . 
+The last two decades before the First World War have been called the `` Golden Age of cricket '' . 
+IN CD , DT JJ JJ NN VBD NN IN DT NNP NNPS CC NNP . 
+In 1844 , the first-ever international match took place between the United States and Canada . 
+IN CD , DT NN IN JJ NNS VBD TO NNP NNP IN DT JJ JJ NN . 
+In 1859 , a team of English players went to North America on the first overseas tour . 
+IN CD , DT JJ NN VBD DT JJ NN IN NNP . 
+In 1862 , an English team made the first tour of Australia . 
+DT NN IN NNP CC NNP VBD NN TO DT NNS IN CD CC DT VBZ VBN NN NN POS RBS JJ NN . 
+The rivalry between England and Australia gave birth to The Ashes in 1882 and this has remained Test cricket 's most famous contest . 
+NNP NNP VBD VBN IN JJ NN IN CD TO CD IN NN IN DT NN NN . 
+South Africa was banned from international cricket from 1970 to 1992 as part of the apartheid boycott . 
+NN VBD DT JJ NN IN CD WRB JJ NNS VBD DT JJ NN NN . 
+Cricket entered a new era in 1963 when English counties introduced the limited overs variant . 
+IN DT JJ NN , DT JJ JJ NNS NN , NNS , VBD DT JJ NN . 
+In the 21st century , a new limited overs form , Twenty20 , made an immediate impact . 
+EX VBP CD NNS -LRB- RB VBN IN DT NN `` NNP '' -RRB- . 
+There are 42 Laws -LRB- always written with a capital `` L '' -RRB- . 
+DT NN VBZ VBN IN CD JJ NNS VBN IN CD NNS . 
+Each wicket is made of three wooden stumps topped by two bails . 
+DT CD NNS VBP VBN RB IN DT VBG NN , WDT VBZ CD NNS CD NNS JJ . 
+The three stumps are aligned centrally on the bowling crease , which is eight feet eight inches long . 

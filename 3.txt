@@ -1,0 +1,208 @@
+Cricket/NN is/VBZ a/DT bat-and-ball/JJ game/NN played/VBN between/IN two/CD teams/NNS of/IN eleven/CD players/NNS each/DT on/IN a/DT cricket/NN field/NN ,/, at/IN the/DT centre/NN of/IN which/WDT is/VBZ a/DT rectangular/JJ 22-yard-long/JJ pitch/NN with/IN a/DT target/NN called/VBN the/DT wicket/NN -LRB-/-LRB- a/DT set/NN of/IN three/CD wooden/JJ stumps/NNS topped/VBN by/IN two/CD bails/NNS -RRB-/-RRB- at/IN each/DT end/NN ./.
+
+Each/DT phase/NN of/IN play/NN is/VBZ called/VBN an/DT innings/NNS during/IN which/WDT one/CD team/NN bats/NNS ,/, attempting/VBG to/TO score/NN as/IN many/DT runs/VBZ as/RB possible/JJ ,/, whilst/VBZ their/PRP$ opponents/NNS field/NN ./.
+
+Depending/VBG on/IN the/DT type/NN of/IN match/NN ,/, the/DT teams/NNS have/VBP one/CD or/CC two/CD innings/NNS apiece/RB and/CC ,/, when/WRB the/DT first/JJ innings/NNS ends/VBZ ,/, the/DT teams/NNS swap/VBP roles/NNS for/IN the/DT next/JJ innings/NNS ./.
+
+Except/IN in/IN matches/NNP which/WDT result/VBP in/IN a/DT draw/NN ,/, the/DT winning/JJ team/NN is/VBZ the/DT one/NN that/WDT scores/VBZ the/DT most/JJS runs/NNS ,/, including/VBG any/DT extras/NNS gained/VBN ./.
+
+Before/IN a/DT match/NN begins/VBZ ,/, the/DT two/CD team/NN captains/NNS meet/VBP on/IN the/DT pitch/NN for/IN the/DT toss/NN -LRB-/-LRB- of/IN a/DT coin/NN -RRB-/-RRB- to/TO determine/VB which/WDT team/NN will/MD bat/VB first/RB ./.
+
+Two/CD batsmen/NN and/CC eleven/CD fielders/NNS then/RB enter/VBP the/DT field/NN and/CC play/NN begins/VBZ when/WRB a/DT member/NN of/IN the/DT fielding/NN team/NN ,/, known/VBN as/IN the/DT bowler/NN ,/, delivers/VBZ the/DT ball/NN from/IN one/CD end/NN of/IN the/DT pitch/NN towards/IN the/DT wicket/NN at/IN the/DT other/JJ end/NN ,/, which/WDT is/VBZ guarded/VBN by/IN one/CD of/IN the/DT batsmen/NN ,/, known/VBN as/IN the/DT striker/NN ./.
+
+In/IN addition/NN to/TO the/DT bowler/NN ,/, the/DT fielding/NN team/NN includes/VBZ the/DT wicket-keeper/NN ,/, a/DT specialist/NN who/WP stands/VBZ behind/IN the/DT striker/NN 's/POS wicket/NN ./.
+
+The/DT nine/CD other/JJ fielders/NNS are/VBP tactically/RB deployed/VBN around/IN the/DT field/NN by/IN their/PRP$ captain/NN ,/, usually/RB in/IN consultation/NN with/IN the/DT bowler/NN ./.
+
+The/DT striker/NN ``/`` takes/VBZ guard/NNP ''/'' on/IN a/DT crease/NN drawn/VBN on/IN the/DT pitch/NN four/CD feet/NNS in/IN front/NN of/IN the/DT wicket/NN ./.
+
+His/PRP$ role/NN is/VBZ to/TO prevent/VB the/DT ball/NN from/IN hitting/VBG the/DT stumps/NNS by/IN using/VBG his/PRP$ bat/NN and/CC ,/, simultaneously/RB ,/, to/TO strike/VB it/PRP well/RB enough/RB to/TO score/NN runs/NNS ./.
+
+The/DT other/JJ batsman/NN ,/, known/VBN as/IN the/DT non-striker/NN ,/, waits/VBZ at/IN the/DT opposite/JJ end/NN of/IN the/DT pitch/NN near/IN the/DT bowler/NN ./.
+
+The/DT bowler/NN 's/POS objectives/NNS are/VBP to/TO prevent/VB the/DT scoring/VBG of/IN runs/NNS and/CC to/TO dismiss/VB the/DT batsman/NN ./.
+
+A/DT dismissed/JJ batsman/NN ,/, who/WP is/VBZ declared/VBN to/TO be/VB out/RP ,/, must/MD leave/VB the/DT field/NN to/TO be/VB replaced/VBN by/IN a/DT teammate/NN ./.
+
+An/DT over/RB is/VBZ a/DT set/NN of/IN six/CD deliveries/NNS bowled/VBN by/IN the/DT same/JJ bowler/NN ./.
+
+The/DT next/JJ over/RB is/VBZ bowled/VBN from/IN the/DT other/JJ end/NN of/IN the/DT pitch/NN by/IN a/DT different/JJ bowler/NN ./.
+
+The/DT most/RBS common/JJ forms/NNS of/IN dismissal/NN are/VBP bowled/VBN ,/, when/WRB the/DT bowler/NN hits/VBZ the/DT stumps/NNS directly/RB with/IN the/DT ball/NN and/CC dislodges/VBZ the/DT bails/NNS ;/: leg/NN before/IN wicket/NN -LRB-/-LRB- lbw/NNP -RRB-/-RRB- ,/, when/WRB the/DT batsman/NN prevents/VBZ the/DT ball/NN from/IN hitting/VBG the/DT stumps/NNS with/IN his/PRP$ body/NN instead/RB of/IN his/PRP$ bat/NN ;/: and/CC caught/VBN ,/, when/WRB the/DT batsman/NN hits/VBZ the/DT ball/NN into/IN the/DT air/NN and/CC it/PRP is/VBZ intercepted/VBN by/IN a/DT fielder/NN before/IN touching/VBG the/DT ground/NN ./.
+
+Runs/NNS are/VBP scored/VBN by/IN two/CD main/JJ methods/NNS :/: either/CC by/IN hitting/VBG the/DT ball/NN hard/JJ enough/RB for/IN it/PRP to/TO cross/VB the/DT boundary/NN ,/, or/CC by/IN the/DT two/CD batsmen/NN swapping/VBG ends/NNS by/IN each/DT simultaneously/RB running/VBG the/DT length/NN of/IN the/DT pitch/NN in/IN opposite/JJ directions/NNS whilst/IN the/DT fielders/NNS are/VBP retrieving/VBG the/DT ball/NN ./.
+
+If/IN a/DT fielder/NN retrieves/VBZ the/DT ball/NN quickly/RB enough/RB to/TO put/VB down/RP the/DT wicket/NN with/IN a/DT batsman/NN not/RB having/VBG reached/VBN the/DT crease/NN at/IN that/DT end/NN of/IN the/DT pitch/NN ,/, that/DT batsman/NN is/VBZ dismissed/VBN -LRB-/-LRB- a/DT run/NN out/RB occurs/VBZ -RRB-/-RRB- ./.
+
+Adjudication/NNP is/VBZ performed/VBN on/IN the/DT field/NN by/IN two/CD umpires/NNS ;/: they/PRP communicate/VB with/IN two/CD off-field/JJ scorers/NNS -LRB-/-LRB- one/CD per/IN team/NN -RRB-/-RRB- who/WP record/VB all/DT the/DT match/NN 's/POS statistical/JJ information/NN including/VBG runs/NNS ,/, dismissals/NNS ,/, overs/NNS ,/, etc./FW ./.
+
+Historically/RB ,/, cricket/NN 's/POS origins/NNS are/VBP uncertain/JJ and/CC the/DT earliest/JJS definite/JJ reference/NN is/VBZ in/IN south-east/NNP England/NNP in/IN the/DT middle/NN of/IN the/DT 16th/JJ century/NN ./.
+
+It/PRP spread/VBD globally/RB with/IN the/DT expansion/NN of/IN the/DT British/JJ Empire/NN ,/, leading/VBG to/TO the/DT first/JJ international/JJ matches/NN in/IN the/DT second/JJ half/NN of/IN the/DT 19th/JJ century/NN ./.
+
+The/DT game/NN 's/POS governing/VBG body/NN is/VBZ the/DT International/JJ Cricket/NN Council/NN -LRB-/-LRB- ICC/NNP -RRB-/-RRB- ,/, which/WDT has/VBZ over/IN 100/CD members/NNS ,/, twelve/CD of/IN which/WDT are/VBP full/JJ members/NNS who/WP play/VBP Test/NN cricket/NN ./.
+
+The/DT sport/NN is/VBZ followed/VBN primarily/RB in/IN Australasia/NNP ,/, Great/NNP Britain/NNP and/CC Ireland/NNP ,/, the/DT Indian/JJ subcontinent/NN ,/, southern/NNP Africa/NNP and/CC the/DT West/NNP Indies/NNP ./.
+
+Women/NNS 's/POS cricket/NN ,/, which/WDT is/VBZ organised/VBN and/CC played/VBN separately/RB ,/, has/VBZ also/RB achieved/VBN international/NNP standard/NNP ./.
+
+The/DT game/NN 's/POS rules/NNS are/VBP held/VBN in/IN a/DT code/NN called/VBN the/DT Laws/NNS of/IN Cricket/NN which/WDT is/VBZ owned/VBN and/CC maintained/VBN by/IN Marylebone/NNP Cricket/NNP Club/NNP -LRB-/-LRB- MCC/NNP -RRB-/-RRB- in/IN London/NNP ./.
+
+There/EX are/VBP various/JJ formats/NNS ranging/VBG from/IN Twenty20/CD ,/, played/VBN over/RP a/DT few/JJ hours/NNS with/IN each/DT team/NN having/VBG a/DT single/JJ innings/NNS of/IN 20/CD overs/NNS -LRB-/-LRB- i.e./CD 120/CD deliveries/NNS -RRB-/-RRB- ,/, to/TO Test/VB matches/VBZ played/VBN over/IN five/CD days/NNS with/IN unlimited/JJ overs/NNS and/CC the/DT teams/NNS playing/VBG two/CD innings/NNS apiece/RB ./.
+
+Traditionally/RB cricketers/NNS play/VBP in/IN all-white/JJ kit/NN ,/, but/CC in/IN limited/JJ overs/NNS cricket/NN they/PRP wear/VBP club/NN or/CC team/NN colours/NNS ./.
+
+In/IN addition/NN to/TO the/DT basic/JJ kit/NN ,/, some/DT players/NNS wear/VBP protective/JJ gear/NN to/TO prevent/VB injury/NN caused/VBN by/IN the/DT ball/NN ,/, which/WDT is/VBZ a/DT hard/JJ ,/, solid/JJ spheroid/NN made/VBN of/IN compressed/JJ leather/NN enclosing/VBG a/DT cork/NN core/NN ./.
+
+Cricket/NN is/VBZ one/CD of/IN many/JJ games/NNS in/IN the/DT ``/`` club/NN ball/NN ''/'' sphere/NN that/WDT basically/RB involve/VBP hitting/VBG a/DT ball/NN with/IN a/DT hand-held/JJ implement/NN ;/: others/NNS are/VBP baseball/NN ,/, golf/NN ,/, hockey/NN and/CC tennis/NN ./.
+
+In/IN cricket/NN 's/POS case/NN ,/, a/DT key/JJ difference/NN is/VBZ the/DT existence/NN of/IN a/DT solid/JJ target/NN structure/NN ,/, the/DT wicket/NN -LRB-/-LRB- originally/VBG ,/, it/PRP is/VBZ thought/VBN ,/, a/DT ``/`` wicket/JJ gate/NN ''/'' through/IN which/WDT sheep/NN were/VBD herded/VBN -RRB-/-RRB- ,/, that/IN the/DT batsman/NN must/MD defend/VB ./.
+
+The/DT cricket/NN historian/VBZ Harry/NNP Altham/NNP identified/VBN three/CD ``/`` groups/NNS ''/'' of/IN ``/`` club/NNP ball/NNP ''/'' games/NNS :/: the/DT ``/`` hockey/NN group/NN ''/'' ,/, in/IN which/WDT the/DT ball/NN is/VBZ driven/VBN to/TO and/CC fro/RB between/IN two/CD targets/NNS -LRB-/-LRB- the/DT goals/NNS -RRB-/-RRB- ;/: the/DT ``/`` golf/NN group/NN ''/'' ,/, in/IN which/WDT the/DT ball/NN is/VBZ driven/VBN towards/IN an/DT undefended/JJ target/NN -LRB-/-LRB- the/DT hole/NN -RRB-/-RRB- ;/: and/CC the/DT ``/`` cricket/NN group/NN ''/'' ,/, in/IN which/WDT ``/`` the/DT ball/NN is/VBZ aimed/VBN at/IN a/DT mark/NN -LRB-/-LRB- the/DT wicket/NN -RRB-/-RRB- and/CC driven/VBN away/RP from/IN it/PRP ''/'' ./.
+
+It/PRP is/VBZ generally/RB believed/VBN that/IN cricket/NN originated/VBN as/IN a/DT children/NNS 's/POS game/NN in/IN the/DT south-eastern/JJ counties/NNS of/IN England/NNP ,/, sometime/RB during/IN the/DT medieval/JJ period/NN ./.
+
+Although/IN there/EX are/VBP claims/NNS for/IN prior/JJ dates/NNS ,/, the/DT earliest/JJS definite/JJ reference/NN to/TO cricket/NN being/VBG played/VBN comes/VBZ from/IN evidence/NN given/VBN at/IN a/DT court/NN case/NN in/IN Guildford/NNP on/IN Monday/NNP ,/, 17/CD January/NNP 1597/CD -LRB-/-LRB- Julian/VBG calendar/NN ;/: equating/VBG to/TO 30/CD January/NNP 1598/CD in/IN the/DT Gregorian/NNP calendar/NN -RRB-/-RRB- ./.
+
+The/DT case/NN concerned/VBN ownership/NN of/IN a/DT certain/JJ plot/NN of/IN land/NN and/CC the/DT court/NN heard/VBD the/DT testimony/NN of/IN a/DT 59-year-old/JJ coroner/NN ,/, John/NNP Derrick/NNP ,/, who/WP gave/VBD witness/NN that/DT :/: ``/`` Being/VBG a/DT scholler/NN in/IN the/DT ffree/JJ schoole/NN of/IN Guldeford/NNP hee/NNP and/CC diverse/JJ of/IN his/PRP$ fellows/NNS did/VBD runne/NN and/CC play/NN there/RB at/IN creckett/NN and/CC other/JJ plaies/NNS ''/'' ./.
+
+Given/VBN Derrick/NNP 's/POS age/NN ,/, it/PRP was/VBD about/RB half/PDT a/DT century/NN earlier/JJR when/WRB he/PRP was/VBD at/IN school/NN and/CC so/IN it/PRP is/VBZ certain/JJ that/IN cricket/NN was/VBD being/VBG played/VBN since/IN 1550/CD by/IN boys/NNS in/IN Surrey/NNP ./.
+
+The/DT view/NN that/IN it/PRP was/VBD originally/RB a/DT children/NNS 's/POS game/NN is/VBZ reinforced/VBN by/IN Randle/NNP Cotgrave/NNP 's/POS 1611/CD English-French/JJ dictionary/NN in/IN which/WDT he/PRP defined/VBD the/DT noun/NN ``/`` crosse/FW ''/'' as/IN ``/`` the/DT crooked/JJ staff/NN wherewith/NNP boys/NNPS play/VBP at/IN cricket/NN ''/'' and/CC the/DT verb/NN form/VBP ``/`` crosser/NNP ''/'' as/RB ``/`` to/TO play/VB at/IN cricket/NN ''/'' ./.
+
+One/CD possible/JJ source/NN for/IN the/DT sport/NN 's/POS name/NN is/VBZ the/DT Old/JJ English/JJ word/NN ``/`` cryce/NN ''/'' -LRB-/-LRB- or/CC ``/`` cricc/NNP ''/'' -RRB-/-RRB- meaning/VBG a/DT crutch/NN or/CC staff/NN ./.
+
+In/IN Samuel/NNP Johnson/NNP 's/POS Dictionary/NN ,/, he/PRP derived/VBD cricket/NN from/IN ``/`` cryce/NNP ,/, Saxon/NNP ,/, a/DT stick/NN ''/'' ./.
+
+In/IN Old/NNP French/NNP ,/, the/DT word/NN ``/`` criquet/NN ''/'' seems/VBZ to/TO have/VB meant/VBN a/DT kind/NN of/IN club/NNP or/CC stick/NNP ./.
+
+Given/VBN the/DT strong/JJ medieval/JJ trade/NN connections/NNS between/IN south-east/NNP England/NNP and/CC the/DT County/NN of/IN Flanders/NNS when/WRB the/DT latter/NN belonged/VBD to/TO the/DT Duchy/NN of/IN Burgundy/NNP ,/, the/DT name/NN may/MD have/VB been/VBN derived/VBN from/IN the/DT Middle/NNP Dutch/NNPS -LRB-/-LRB- in/IN use/NN in/IN Flanders/NNS at/IN the/DT time/NN -RRB-/-RRB- ``/`` krick/NNP ''/'' -LRB-/-LRB- -/NNP e/NNP -RRB-/-RRB- ,/, meaning/VBG a/DT stick/NN -LRB-/-LRB- crook/NN -RRB-/-RRB- ./.
+
+Another/DT possible/JJ source/NN is/VBZ the/DT Middle/JJ Dutch/JJ word/NN ``/`` krickstoel/NN ''/'' ,/, meaning/VBG a/DT long/JJ low/JJ stool/NN used/VBN for/IN kneeling/VBG in/IN church/NN and/CC which/WDT resembled/VBD the/DT long/JJ low/JJ wicket/NN with/IN two/CD stumps/NNS used/VBN in/IN early/JJ cricket/NN ./.
+
+According/VBG to/TO Heiner/NNP Gillmeister/NNP ,/, a/DT European/JJ language/NN expert/NN of/IN Bonn/NNP University/NNP ,/, ``/`` cricket/NN ''/'' derives/VBZ from/IN the/DT Middle/JJ Dutch/JJ phrase/NN for/IN hockey/NN ,/, met/NNP de/NNP -LRB-/-LRB- krik/NNP ket/NNP -RRB-/-RRB- sen/NNP -LRB-/-LRB- i.e./VBN ,/, ``/`` with/IN the/DT stick/NNP chase/NNP ''/'' -RRB-/-RRB- ./.
+
+Gillmeister/NNP has/VBZ suggested/VBN that/DT not/RB only/JJ the/DT name/NN but/CC also/RB the/DT sport/NN itself/PRP may/MD be/VB of/IN Flemish/JJ origin/NN ./.
+
+Although/IN the/DT main/JJ object/NN of/IN the/DT game/NN has/VBZ always/RB been/VBN to/TO score/VB the/DT most/JJS runs/NNS ,/, the/DT early/JJ form/NN of/IN cricket/NN differed/VBN from/IN the/DT modern/JJ game/NN in/IN certain/JJ key/JJ technical/JJ aspects/NNS ./.
+
+The/DT ball/NN was/VBD bowled/VBN underarm/NN by/IN the/DT bowler/NN and/CC all/DT along/IN the/DT ground/NN towards/IN a/DT batsman/NNP armed/NNP with/IN a/DT bat/NN that/WDT ,/, in/IN shape/NN ,/, resembled/VBD a/DT hockey/NN stick/VBP ;/: the/DT batsman/NN defended/VBD a/DT low/JJ ,/, two-stump/JJ wicket/NN ;/: and/CC runs/NNS were/VBD called/VBN ``/`` notches/NNS ''/'' because/IN the/DT scorers/NNS recorded/VBD them/PRP by/IN notching/VBG tally/NN sticks/VBZ ./.
+
+In/IN 1611/CD ,/, the/DT year/NN Cotgrave/NN 's/POS dictionary/NN was/VBD published/VBN ,/, ecclesiastical/NNP court/NNP records/VBZ at/IN Sidlesham/NNP in/IN Sussex/NNP state/NNP that/IN two/CD parishioners/NNS ,/, Bartholomew/NNP Wyatt/NNP and/CC Richard/NNP Latter/NN ,/, failed/VBD to/TO attend/VB church/NN on/IN Easter/NNP Sunday/NNP because/IN they/PRP were/VBD playing/VBG cricket/NN ./.
+
+They/PRP were/VBD fined/VBN 12d/NNS each/DT and/CC ordered/VBN to/TO do/VB penance/NN ./.
+
+This/DT is/VBZ the/DT earliest/JJS mention/NN of/IN adult/JJ participation/NN in/IN cricket/NN and/CC it/PRP was/VBD around/IN the/DT same/JJ time/NN that/IN the/DT earliest/JJS known/JJ organised/JJ inter-parish/NN or/CC village/NN match/NN was/VBD played/VBN at/IN Chevening/NNP ,/, Kent/NNP ./.
+
+In/IN 1624/CD ,/, a/DT player/NN called/VBD Jasper/NNP Vinall/NNP died/VBD after/IN he/PRP was/VBD accidentally/RB struck/VBN on/IN the/DT head/NN during/IN a/DT match/NN between/IN two/CD parish/JJ teams/NNS in/IN Sussex/NNP ./.
+
+Cricket/NN remained/VBD a/DT low-key/JJ local/JJ pursuit/NN for/IN much/RB of/IN the/DT century/NN ./.
+
+It/PRP is/VBZ known/VBN ,/, through/IN numerous/JJ references/NNS found/VBN in/IN the/DT records/NNS of/IN ecclesiastical/JJ court/NN cases/NNS ,/, to/TO have/VB been/VBN proscribed/VBN at/IN times/NNS by/IN the/DT Puritans/NNS before/IN and/CC during/IN the/DT Commonwealth/NN ./.
+
+The/DT problem/NN was/VBD nearly/RB always/RB the/DT issue/NN of/IN Sunday/NNP play/NN as/IN the/DT Puritans/NNS considered/VBD cricket/NN to/TO be/VB ``/`` profane/JJ ''/'' if/IN played/VBD on/IN the/DT Sabbath/NN ,/, especially/RB if/IN large/JJ crowds/NNS and/or/VBD gambling/NN were/VBD involved/VBN ./.
+
+According/VBG to/TO the/DT social/JJ historian/NN Derek/NNP Birley/NNP ,/, there/EX was/VBD a/DT ``/`` great/JJ upsurge/NN of/IN sport/NN after/IN the/DT Restoration/NN ''/'' in/IN 1660/CD ./.
+
+Gambling/NN on/IN sport/NN became/VBD a/DT problem/NN significant/JJ enough/RB for/IN Parliament/NNP to/TO pass/VB the/DT 1664/CD Gambling/NN Act/NN ,/, limiting/VBG stakes/NNS to/TO 100/CD which/WDT was/VBD in/IN any/DT case/NN a/DT colossal/JJ sum/NN exceeding/VBG the/DT annual/JJ income/NN of/IN 99/CD %/NN of/IN the/DT population/NN ./.
+
+Along/IN with/IN prizefighting/NN ,/, horse/NN racing/NN and/CC blood/NN sports/NNS ,/, cricket/NN was/VBD perceived/VBN to/TO be/VB a/DT gambling/VBG sport/NN ./.
+
+Rich/NNP patrons/NNP made/VBN matches/VBZ for/IN high/JJ stakes/NNS ,/, forming/VBG teams/NNS in/IN which/WDT they/PRP engaged/VBD the/DT first/JJ professional/JJ players/NNS ./.
+
+By/IN the/DT end/NN of/IN the/DT century/NN ,/, cricket/NN had/VBD developed/VBN into/IN a/DT major/JJ sport/NN which/WDT was/VBD spreading/VBG throughout/IN England/NNP and/CC was/VBD already/RB being/VBG taken/VBN abroad/RB by/IN English/JJ mariners/NNS and/CC colonisers/VBZ the/DT earliest/JJS reference/NN to/TO cricket/NN overseas/RB is/VBZ dated/VBN 1676/CD ./.
+
+A/DT 1697/CD newspaper/NN report/NN survives/VBZ of/IN ``/`` a/DT great/JJ cricket/NN match/NN ''/'' played/VBN in/IN Sussex/NNP ``/`` for/IN fifty/CD guineas/NNS apiece/RB ''/'' this/DT is/VBZ the/DT earliest/JJS known/VBN reference/NN to/TO an/DT important/JJ match/NN ./.
+
+The/DT patrons/NN ,/, and/CC other/JJ players/NNS from/IN the/DT social/JJ class/NN known/VBN as/IN the/DT ``/`` gentry/NN ''/'' ,/, began/VBD to/TO classify/VB themselves/PRP as/IN ``/`` amateurs/NNS ''/'' to/TO establish/VB a/DT clear/JJ distinction/NN vis/NN -/: -/: vis/VBG the/DT professionals/NNS ,/, who/WP were/VBD invariably/RB members/NNS of/IN the/DT working/VBG class/NN ,/, even/RB to/TO the/DT point/NN of/IN having/VBG separate/JJ changing/VBG and/CC dining/VBG facilities/NNS ./.
+
+The/DT gentry/NN ,/, including/VBG such/JJ high-ranking/JJ nobles/NNS as/IN the/DT Dukes/NNS of/IN Richmond/NNP ,/, exerted/VBN their/PRP$ honour/NN code/NN of/IN noblesse/NNP oblige/NNP to/TO claim/NN rights/NNS of/IN leadership/NN in/IN any/DT sporting/NN contests/VBZ they/PRP took/VBD part/NN in/IN ,/, especially/RB as/IN it/PRP was/VBD necessary/JJ for/IN them/PRP to/TO play/VB alongside/IN their/PRP$ ``/`` social/JJ inferiors/NNS ''/'' if/IN they/PRP were/VBD to/TO win/VB their/PRP$ bets/NNS ./.
+
+In/IN time/NN ,/, a/DT perception/NN took/VBD hold/VB that/IN the/DT typical/JJ amateur/NN who/WP played/VBD in/IN first-class/JJ cricket/NN ,/, until/IN 1962/CD when/WRB amateurism/NNP was/VBD abolished/VBN ,/, was/VBD someone/NN with/IN a/DT public/JJ school/NN education/NN who/WP had/VBD then/RB gone/VBN to/TO one/CD of/IN Cambridge/NNP or/CC Oxford/NNP University/NNP society/NNP insisted/VBD that/IN such/JJ people/NNS were/VBD ``/`` officers/NNS and/CC gentlemen/NNS ''/'' whose/WP$ destiny/NNS was/VBD to/TO provide/VB leadership/NN ./.
+
+In/IN a/DT purely/RB financial/JJ sense/NN ,/, the/DT cricketing/NNP amateur/NNP would/MD theoretically/RB claim/VB expenses/NNS for/IN playing/VBG while/IN his/PRP$ professional/JJ counterpart/NN played/VBD under/IN contract/NN and/CC was/VBD paid/VBN a/DT wage/NN or/CC match/VB fee/NN ;/: in/IN practice/NN ,/, many/JJ amateurs/NNS claimed/VBD somewhat/RB more/JJR than/IN actual/JJ expenditure/NN and/CC the/DT derisive/JJ term/NN ``/`` shamateur/NN ''/'' was/VBD coined/VBN to/TO describe/VB the/DT syndrome/NN ./.
+
+The/DT game/NN underwent/VBD major/JJ development/NN in/IN the/DT 18th/JJ century/NN to/TO become/VB England/NNP 's/POS national/JJ sport/NN ./.
+
+Its/PRP$ success/NN was/VBD underwritten/VBN by/IN the/DT twin/JJ necessities/NNS of/IN patronage/NNP and/CC betting/NNP ./.
+
+Cricket/NN was/VBD prominent/JJ in/IN London/NNP as/IN early/RB as/RB 1707/CD and/CC ,/, in/IN the/DT middle/JJ years/NNS of/IN the/DT century/NN ,/, large/JJ crowds/NNS flocked/VBD to/TO matches/VB on/IN the/DT Artillery/NN Ground/NN in/IN Finsbury/NNP ./.
+
+The/DT single/JJ wicket/NN form/NN of/IN the/DT sport/NN attracted/VBD huge/JJ crowds/NNS and/CC wagers/NNS to/TO match/NN ,/, its/PRP$ popularity/NN peaking/VBG in/IN the/DT 1748/CD season/NN ./.
+
+Bowling/NN underwent/VBD an/DT evolution/NN around/IN 1760/CD when/WRB bowlers/NNS began/VBD to/TO pitch/VB the/DT ball/NN instead/RB of/IN rolling/VBG or/CC skimming/VBG it/PRP towards/IN the/DT batsman/NN ./.
+
+This/DT caused/VBD a/DT revolution/NN in/IN bat/NN design/NN because/IN ,/, to/TO deal/VB with/IN the/DT bouncing/VBG ball/NN ,/, it/PRP was/VBD necessary/JJ to/TO introduce/VB the/DT modern/JJ straight/JJ bat/NN in/IN place/NN of/IN the/DT old/JJ ``/`` hockey/NNPS stick/NNP ''/'' shape/NN ./.
+
+The/DT Hambledon/NNP Club/NN was/VBD founded/VBN in/IN the/DT 1760s/NN and/CC ,/, for/IN the/DT next/JJ twenty/CD years/NNS until/IN the/DT formation/NN of/IN Marylebone/NNP Cricket/NNP Club/NNP -LRB-/-LRB- MCC/NNP -RRB-/-RRB- and/CC the/DT opening/NN of/IN Lord/NNP 's/POS Old/JJ Ground/NN in/IN 1787/CD ,/, Hambledon/NNP was/VBD both/DT the/DT game/NN 's/POS greatest/JJS club/NN and/CC its/PRP$ focal/JJ point/NN ./.
+
+MCC/NNP quickly/RB became/VBD the/DT sport/NN 's/POS premier/JJ club/NN and/CC the/DT custodian/NN of/IN the/DT Laws/NNS of/IN Cricket/NN ./.
+
+New/JJ Laws/NNS introduced/VBN in/IN the/DT latter/JJ part/NN of/IN the/DT 18th/JJ century/NN included/VBD the/DT three/CD stump/NN wicket/NN and/CC leg/NN before/IN wicket/NN -LRB-/-LRB- lbw/NNP -RRB-/-RRB- ./.
+
+The/DT 19th/JJ century/NN saw/VBD underarm/NNP bowling/NNP superseded/VBD by/IN first/JJ roundarm/NN and/CC then/RB overarm/VBP bowling/NN ./.
+
+Both/DT developments/NNS were/VBD controversial.Organisation/NNP of/IN the/DT game/NN at/IN county/NNP level/NN led/VBN to/TO the/DT creation/NN of/IN the/DT county/NNP clubs/NNPS ,/, starting/VBG with/IN Sussex/NNP in/IN 1839/CD ./.
+
+In/IN December/NNP 1889/CD ,/, the/DT eight/CD leading/VBG county/NNP clubs/NNS formed/VBD the/DT official/JJ County/NNP Championship/NN ,/, which/WDT began/VBD in/IN 1890/CD ./.
+
+The/DT most/RBS famous/JJ player/NN of/IN the/DT 19th/JJ century/NN was/VBD W./NNP G./NNP Grace/NNP ,/, who/WP started/VBD his/PRP$ long/JJ and/CC influential/JJ career/NN in/IN 1865/CD ./.
+
+It/PRP was/VBD especially/RB during/IN the/DT career/NN of/IN Grace/NNP that/IN the/DT distinction/NN between/IN amateurs/NNS and/CC professionals/NNS became/VBD blurred/VBD by/IN the/DT existence/NN of/IN players/NNS like/IN him/PRP who/WP were/VBD nominally/RB amateur/JJ but/CC ,/, in/IN terms/NNS of/IN their/PRP$ financial/JJ gain/NN ,/, de/FW facto/FW professional/JJ ./.
+
+Grace/NNP himself/PRP was/VBD said/VBN to/TO have/VB been/VBN paid/VBN more/JJR money/NN for/IN playing/VBG cricket/NN than/IN any/DT professional/NNP ./.
+
+The/DT last/JJ two/CD decades/NNS before/IN the/DT First/JJ World/NN War/NN have/VBP been/VBN called/VBN the/DT ``/`` Golden/JJ Age/NN of/IN cricket/NN ''/'' ./.
+
+It/PRP is/VBZ a/DT nostalgic/JJ name/NN prompted/VBN by/IN the/DT collective/JJ sense/NN of/IN loss/NN resulting/VBG from/IN the/DT war/NN ,/, but/CC the/DT period/NN did/VBD produce/VB some/DT great/JJ players/NNS and/CC memorable/JJ matches/NNS ,/, especially/RB as/IN organised/JJ competition/NN at/IN county/NNP and/CC Test/VB level/NN developed/VBN ./.
+
+Meanwhile/RB ,/, the/DT British/JJ Empire/NN had/VBD been/VBN instrumental/JJ in/IN spreading/VBG the/DT game/NN overseas/RB and/CC by/IN the/DT middle/NN of/IN the/DT 19th/JJ century/NN it/PRP had/VBD become/VBN well/RB established/VBN in/IN Australia/NNP ,/, the/DT Caribbean/NNP ,/, India/NNP ,/, New/NNP Zealand/NNP ,/, North/NNP America/NNP and/CC South/NNP Africa/NNP ./.
+
+In/IN 1844/CD ,/, the/DT first-ever/JJ international/JJ match/NN took/VBD place/NN between/IN the/DT United/NNP States/NNPS and/CC Canada/NNP ./.
+
+In/IN 1859/CD ,/, a/DT team/NN of/IN English/JJ players/NNS went/VBD to/TO North/NNP America/NNP on/IN the/DT first/JJ overseas/JJ tour/NN ./.
+
+The/DT first/JJ Australian/JJ team/NN to/TO travel/NN overseas/RB consisted/VBD of/IN Aboriginal/NNP stockmen/NNP who/WP toured/VBD England/NNP in/IN 1868/CD ./.
+
+In/IN 1862/CD ,/, an/DT English/JJ team/NN made/VBD the/DT first/JJ tour/NN of/IN Australia/NNP ./.
+
+In/IN 1876/CD 77/CD ,/, an/DT England/NNP team/NN took/VBD part/NN in/IN what/WP was/VBD retrospectively/RB recognised/VBN as/IN the/DT first-ever/JJ Test/NN match/NN at/IN the/DT Melbourne/NNP Cricket/NN Ground/NN against/IN Australia/NNP ./.
+
+The/DT rivalry/NN between/IN England/NNP and/CC Australia/NNP gave/VBD birth/NN to/TO The/DT Ashes/NNS in/IN 1882/CD and/CC this/DT has/VBZ remained/VBN Test/NN cricket/NN 's/POS most/RBS famous/JJ contest/NN ./.
+
+Test/NN cricket/NN began/VBD to/TO expand/VB in/IN 1888/CD 89/CD when/WRB South/NNP Africa/NNP played/VBD England.The/JJ inter-war/JJ years/NNS were/VBD dominated/VBN by/IN Australia/NNP 's/POS Don/NNP Bradman/NNP ,/, statistically/VBG the/DT greatest/JJS Test/NN batsman/NN of/IN all/DT time/NN ./.
+
+Test/NN cricket/NN continued/VBD to/TO expand/VB during/IN the/DT 20th/JJ century/NN with/IN the/DT addition/NN of/IN the/DT West/NNP Indies/NNP -LRB-/-LRB- 1928/CD -RRB-/-RRB- ,/, New/NNP Zealand/NNP -LRB-/-LRB- 1930/CD -RRB-/-RRB- and/CC India/NNP -LRB-/-LRB- 1932/CD -RRB-/-RRB- before/IN the/DT Second/JJ World/NN War/NN and/CC then/RB Pakistan/NNP -LRB-/-LRB- 1952/CD -RRB-/-RRB- ,/, Sri/NNP Lanka/NNP -LRB-/-LRB- 1982/CD -RRB-/-RRB- ,/, Zimbabwe/NNP -LRB-/-LRB- 1992/CD -RRB-/-RRB- and/CC Bangladesh/NNP -LRB-/-LRB- 2000/CD -RRB-/-RRB- in/IN the/DT post-war/JJ period/NN ./.
+
+South/NNP Africa/NNP was/VBD banned/VBN from/IN international/JJ cricket/NN from/IN 1970/CD to/TO 1992/CD as/IN part/NN of/IN the/DT apartheid/NN boycott/NN ./.
+
+Cricket/NN entered/VBD a/DT new/JJ era/NN in/IN 1963/CD when/WRB English/JJ counties/NNS introduced/VBD the/DT limited/JJ overs/NN variant/NN ./.
+
+As/IN it/PRP was/VBD sure/JJ to/TO produce/VB a/DT result/NN ,/, limited/JJ overs/NN cricket/NN was/VBD lucrative/JJ and/CC the/DT number/NN of/IN matches/NNP increased/VBD ./.
+
+The/DT first/JJ Limited/JJ Overs/NNS International/NNP was/VBD played/VBN in/IN 1971/CD and/CC the/DT governing/VBG International/JJ Cricket/NN Council/NN -LRB-/-LRB- ICC/NNP -RRB-/-RRB- ,/, seeing/VBG its/PRP$ potential/NN ,/, staged/VBD the/DT first/JJ limited/NNP overs/NNP Cricket/NN World/NN Cup/NN in/IN 1975/CD ./.
+
+In/IN the/DT 21st/JJ century/NN ,/, a/DT new/JJ limited/JJ overs/NNS form/NN ,/, Twenty20/NNS ,/, made/VBD an/DT immediate/JJ impact/NN ./.
+
+On/IN 22/CD June/NNP 2017/CD ,/, Afghanistan/NNP and/CC Ireland/NNP became/VBD the/DT 11th/JJ and/CC 12th/JJ ICC/JJ full/JJ members/NNS ,/, enabling/VBG them/PRP to/TO play/VB Test/NN cricket.In/NN cricket/NN ,/, the/DT rules/NNS of/IN the/DT game/NN are/VBP specified/VBN in/IN a/DT code/NN called/VBN The/DT Laws/NNS of/IN Cricket/NN -LRB-/-LRB- hereinafter/NNP called/VBN ``/`` the/DT Laws/NNS ''/'' -RRB-/-RRB- which/WDT has/VBZ a/DT global/JJ remit/NN ./.
+
+There/EX are/VBP 42/CD Laws/NNS -LRB-/-LRB- always/RB written/VBN with/IN a/DT capital/NN ``/`` L/NNP ''/'' -RRB-/-RRB- ./.
+
+The/DT earliest/JJS known/JJ version/NN of/IN the/DT code/NN was/VBD drafted/VBN in/IN 1744/CD and/CC ,/, since/IN 1788/CD ,/, it/PRP has/VBZ been/VBN owned/VBN and/CC maintained/VBN by/IN its/PRP$ custodian/NN ,/, the/DT Marylebone/JJ Cricket/NN Club/NN -LRB-/-LRB- MCC/NNP -RRB-/-RRB- in/IN London.Cricket/NNP is/VBZ a/DT bat-and-ball/JJ game/NN played/VBN on/IN a/DT cricket/NN field/NN between/IN two/CD teams/NNS of/IN eleven/CD players/NNS each/DT ./.
+
+The/DT field/NN is/VBZ usually/RB circular/JJ or/CC oval/JJ in/IN shape/NN and/CC the/DT edge/NN of/IN the/DT playing/NN area/NN is/VBZ marked/VBN by/IN a/DT boundary/NN ,/, which/WDT may/MD be/VB a/DT fence/NN ,/, part/NN of/IN the/DT stands/NNS ,/, a/DT rope/NN ,/, a/DT painted/VBN line/NN or/CC a/DT combination/NN of/IN these/DT ;/: the/DT boundary/NN must/MD if/IN possible/JJ be/VB marked/VBN along/IN its/PRP$ entire/JJ length/NN ./.
+
+In/IN the/DT approximate/JJ centre/NN of/IN the/DT field/NN is/VBZ a/DT rectangular/JJ pitch/NN -LRB-/-LRB- see/VB image/NN ,/, below/RB -RRB-/-RRB- on/IN which/WDT a/DT wooden/JJ target/NN called/VBD a/DT wicket/NN is/VBZ sited/VBN at/IN each/DT end/NN ;/: the/DT wickets/NNS are/VBP placed/VBN 22/CD yards/NNS -LRB-/-LRB- 20/CD m/CD -RRB-/-RRB- apart/RB ./.
+
+The/DT pitch/NN is/VBZ a/DT flat/JJ surface/NN 3/CD metres/NNS -LRB-/-LRB- 9.8/CD ft/CD -RRB-/-RRB- wide/JJ ,/, with/IN very/RB short/JJ grass/NN that/WDT tends/VBZ to/TO be/VB worn/VBN away/RP as/IN the/DT game/NN progresses/VBZ -LRB-/-LRB- cricket/NN can/MD also/RB be/VB played/VBN on/IN artificial/JJ surfaces/NNS ,/, notably/RB matting/VBG -RRB-/-RRB- ./.
+
+Each/DT wicket/NN is/VBZ made/VBN of/IN three/CD wooden/JJ stumps/NNS topped/VBN by/IN two/CD bails/NNS ./.
+
+As/IN illustrated/NNP above/IN ,/, the/DT pitch/NN is/VBZ marked/VBN at/IN each/DT end/NN with/IN four/CD white/JJ painted/VBN lines/NNS :/: a/DT bowling/VBG crease/NN ,/, a/DT popping/JJ crease/NN and/CC two/CD return/NN creases/NNS ./.
+
+The/DT three/CD stumps/NNS are/VBP aligned/VBN centrally/RB on/IN the/DT bowling/VBG crease/NN ,/, which/WDT is/VBZ eight/CD feet/NNS eight/CD inches/NNS long/JJ ./.
+
+The/DT popping/JJ crease/NN is/VBZ drawn/VBN four/CD feet/NNS in/IN front/NN of/IN the/DT bowling/VBG crease/NN and/CC parallel/NN to/TO it/PRP ;/: although/IN it/PRP is/VBZ drawn/VBN as/IN a/DT twelve-foot/JJ line/NN -LRB-/-LRB- six/CD feet/NNS either/DT side/NN of/IN the/DT wicket/NN -RRB-/-RRB- ,/, it/PRP is/VBZ in/IN fact/NN unlimited/JJ in/IN length/NN ./.
+
+The/DT return/NN creases/NNS are/VBP drawn/VBN at/IN right/JJ angles/NNS to/TO the/DT popping/JJ crease/NN so/RB that/IN they/PRP intersect/VBP the/DT ends/NNS of/IN the/DT bowling/VBG crease/NN ;/: each/DT return/NN crease/NN is/VBZ drawn/VBN as/IN an/DT eight-foot/JJ line/NN ,/, so/RB that/IN it/PRP extends/VBZ four/CD feet/NNS behind/IN the/DT bowling/VBG crease/NN ,/, but/CC is/VBZ also/RB in/IN fact/NN unlimited/JJ in/IN length/NN ./.
+

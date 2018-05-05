@@ -1,0 +1,208 @@
+NN VBZ DT JJ NN VBN IN CD NNS IN CD NNS DT IN DT NN NN , IN DT NN IN WDT VBZ DT JJ JJ NN IN DT NN VBN DT NN -LRB- DT NN IN CD JJ NNS VBN IN CD NNS -RRB- IN DT NN . 
+Cricket is a bat-and-ball game played between two teams of eleven players each on a cricket field , at the centre of which is a rectangular 22-yard-long pitch with a target called the wicket -LRB- a set of three wooden stumps topped by two bails -RRB- at each end . 
+DT NN IN NN VBZ VBN DT NNS IN WDT CD NN NNS , VBG TO NN IN DT VBZ RB JJ , VBZ PRP$ NNS NN . 
+Each phase of play is called an innings during which one team bats , attempting to score as many runs as possible , whilst their opponents field . 
+VBG IN DT NN IN NN , DT NNS VBP CD CC CD NNS RB CC , WRB DT JJ NNS VBZ , DT NNS VBP NNS IN DT JJ NNS . 
+Depending on the type of match , the teams have one or two innings apiece and , when the first innings ends , the teams swap roles for the next innings . 
+IN IN NNP WDT VBP IN DT NN , DT JJ NN VBZ DT NN WDT VBZ DT JJS NNS , VBG DT NNS VBN . 
+Except in matches which result in a draw , the winning team is the one that scores the most runs , including any extras gained . 
+IN DT NN VBZ , DT CD NN NNS VBP IN DT NN IN DT NN -LRB- IN DT NN -RRB- TO VB WDT NN MD VB RB . 
+Before a match begins , the two team captains meet on the pitch for the toss -LRB- of a coin -RRB- to determine which team will bat first . 
+CD NN CC CD NNS RB VBP DT NN CC NN VBZ WRB DT NN IN DT NN NN , VBN IN DT NN , VBZ DT NN IN CD NN IN DT NN IN DT NN IN DT JJ NN , WDT VBZ VBN IN CD IN DT NN , VBN IN DT NN . 
+Two batsmen and eleven fielders then enter the field and play begins when a member of the fielding team , known as the bowler , delivers the ball from one end of the pitch towards the wicket at the other end , which is guarded by one of the batsmen , known as the striker . 
+IN NN TO DT NN , DT NN NN VBZ DT NN , DT NN WP VBZ IN DT NN POS NN . 
+In addition to the bowler , the fielding team includes the wicket-keeper , a specialist who stands behind the striker 's wicket . 
+DT CD JJ NNS VBP RB VBN IN DT NN IN PRP$ NN , RB IN NN IN DT NN . 
+The nine other fielders are tactically deployed around the field by their captain , usually in consultation with the bowler . 
+DT NN `` VBZ NNP '' IN DT NN VBN IN DT NN CD NNS IN NN IN DT NN . 
+The striker `` takes guard '' on a crease drawn on the pitch four feet in front of the wicket . 
+PRP$ NN VBZ TO VB DT NN IN VBG DT NNS IN VBG PRP$ NN CC , RB , TO VB PRP RB RB TO NN NNS . 
+His role is to prevent the ball from hitting the stumps by using his bat and , simultaneously , to strike it well enough to score runs . 
+DT JJ NN , VBN IN DT NN , VBZ IN DT JJ NN IN DT NN IN DT NN . 
+The other batsman , known as the non-striker , waits at the opposite end of the pitch near the bowler . 
+DT NN POS NNS VBP TO VB DT VBG IN NNS CC TO VB DT NN . 
+The bowler 's objectives are to prevent the scoring of runs and to dismiss the batsman . 
+DT JJ NN , WP VBZ VBN TO VB RP , MD VB DT NN TO VB VBN IN DT NN . 
+A dismissed batsman , who is declared to be out , must leave the field to be replaced by a teammate . 
+DT RB VBZ DT NN IN CD NNS VBN IN DT JJ NN . 
+An over is a set of six deliveries bowled by the same bowler . 
+DT JJ RB VBZ VBN IN DT JJ NN IN DT NN IN DT JJ NN . 
+The next over is bowled from the other end of the pitch by a different bowler . 
+DT RBS JJ NNS IN NN VBP VBN , WRB DT NN VBZ DT NNS RB IN DT NN CC VBZ DT NNS : NN IN NN -LRB- NNP -RRB- , WRB DT NN VBZ DT NN IN VBG DT NNS IN PRP$ NN RB IN PRP$ NN : CC VBN , WRB DT NN VBZ DT NN IN DT NN CC PRP VBZ VBN IN DT NN IN VBG DT NN . 
+The most common forms of dismissal are bowled , when the bowler hits the stumps directly with the ball and dislodges the bails ; leg before wicket -LRB- lbw -RRB- , when the batsman prevents the ball from hitting the stumps with his body instead of his bat ; and caught , when the batsman hits the ball into the air and it is intercepted by a fielder before touching the ground . 
+NNS VBP VBN IN CD JJ NNS : CC IN VBG DT NN JJ RB IN PRP TO VB DT NN , CC IN DT CD NN VBG NNS IN DT RB VBG DT NN IN DT NN IN JJ NNS IN DT NNS VBP VBG DT NN . 
+Runs are scored by two main methods : either by hitting the ball hard enough for it to cross the boundary , or by the two batsmen swapping ends by each simultaneously running the length of the pitch in opposite directions whilst the fielders are retrieving the ball . 
+IN DT NN VBZ DT NN RB RB TO VB RP DT NN IN DT NN RB VBG VBN DT NN IN DT NN IN DT NN , DT NN VBZ VBN -LRB- DT NN RB VBZ -RRB- . 
+If a fielder retrieves the ball quickly enough to put down the wicket with a batsman not having reached the crease at that end of the pitch , that batsman is dismissed -LRB- a run out occurs -RRB- . 
+NNP VBZ VBN IN DT NN IN CD NNS : PRP VB IN CD JJ NNS -LRB- CD IN NN -RRB- WP VB DT DT NN POS JJ NN VBG NNS , NNS , NNS , FW . 
+Adjudication is performed on the field by two umpires ; they communicate with two off-field scorers -LRB- one per team -RRB- who record all the match 's statistical information including runs , dismissals , overs , etc. . 
+RB , NN POS NNS VBP JJ CC DT JJS JJ NN VBZ IN NNP NNP IN DT NN IN DT JJ NN . 
+Historically , cricket 's origins are uncertain and the earliest definite reference is in south-east England in the middle of the 16th century . 
+PRP VBD RB IN DT NN IN DT JJ NN , VBG TO DT JJ JJ NN IN DT JJ NN IN DT JJ NN . 
+It spread globally with the expansion of the British Empire , leading to the first international matches in the second half of the 19th century . 
+DT NN POS VBG NN VBZ DT JJ NN NN -LRB- NNP -RRB- , WDT VBZ IN CD NNS , CD IN WDT VBP JJ NNS WP VBP NN NN . 
+The game 's governing body is the International Cricket Council -LRB- ICC -RRB- , which has over 100 members , twelve of which are full members who play Test cricket . 
+DT NN VBZ VBN RB IN NNP , NNP NNP CC NNP , DT JJ NN , NNP NNP CC DT NNP NNP . 
+The sport is followed primarily in Australasia , Great Britain and Ireland , the Indian subcontinent , southern Africa and the West Indies . 
+NNS POS NN , WDT VBZ VBN CC VBN RB , VBZ RB VBN NNP NNP . 
+Women 's cricket , which is organised and played separately , has also achieved international standard . 
+DT NN POS NNS VBP VBN IN DT NN VBN DT NNS IN NN WDT VBZ VBN CC VBN IN NNP NNP NNP -LRB- NNP -RRB- IN NNP . 
+The game 's rules are held in a code called the Laws of Cricket which is owned and maintained by Marylebone Cricket Club -LRB- MCC -RRB- in London . 
+EX VBP JJ NNS VBG IN CD , VBN RP DT JJ NNS IN DT NN VBG DT JJ NNS IN CD NNS -LRB- CD CD NNS -RRB- , TO VB VBZ VBN IN CD NNS IN JJ NNS CC DT NNS VBG CD NNS RB . 
+There are various formats ranging from Twenty20 , played over a few hours with each team having a single innings of 20 overs -LRB- i.e. 120 deliveries -RRB- , to Test matches played over five days with unlimited overs and the teams playing two innings apiece . 
+RB NNS VBP IN JJ NN , CC IN JJ NNS NN PRP VBP NN CC NN NNS . 
+Traditionally cricketers play in all-white kit , but in limited overs cricket they wear club or team colours . 
+IN NN TO DT JJ NN , DT NNS VBP JJ NN TO VB NN VBN IN DT NN , WDT VBZ DT JJ , JJ NN VBN IN JJ NN VBG DT NN NN . 
+In addition to the basic kit , some players wear protective gear to prevent injury caused by the ball , which is a hard , solid spheroid made of compressed leather enclosing a cork core . 
+NN VBZ CD IN JJ NNS IN DT `` NN NN '' NN WDT RB VBP VBG DT NN IN DT JJ NN : NNS VBP NN , NN , NN CC NN . 
+Cricket is one of many games in the `` club ball '' sphere that basically involve hitting a ball with a hand-held implement ; others are baseball , golf , hockey and tennis . 
+IN NN POS NN , DT JJ NN VBZ DT NN IN DT JJ NN NN , DT NN -LRB- VBG , PRP VBZ VBN , DT `` JJ NN '' IN WDT NN VBD VBN -RRB- , IN DT NN MD VB . 
+In cricket 's case , a key difference is the existence of a solid target structure , the wicket -LRB- originally , it is thought , a `` wicket gate '' through which sheep were herded -RRB- , that the batsman must defend . 
+DT NN VBZ NNP NNP VBN CD `` NNS '' IN `` NNP NNP '' NNS : DT `` NN NN '' , IN WDT DT NN VBZ VBN TO CC RB IN CD NNS -LRB- DT NNS -RRB- : DT `` NN NN '' , IN WDT DT NN VBZ VBN IN DT JJ NN -LRB- DT NN -RRB- : CC DT `` NN NN '' , IN WDT `` DT NN VBZ VBN IN DT NN -LRB- DT NN -RRB- CC VBN RP IN PRP '' . 
+The cricket historian Harry Altham identified three `` groups '' of `` club ball '' games : the `` hockey group '' , in which the ball is driven to and fro between two targets -LRB- the goals -RRB- ; the `` golf group '' , in which the ball is driven towards an undefended target -LRB- the hole -RRB- ; and the `` cricket group '' , in which `` the ball is aimed at a mark -LRB- the wicket -RRB- and driven away from it '' . 
+PRP VBZ RB VBN IN NN VBN IN DT NNS POS NN IN DT JJ NNS IN NNP , RB IN DT JJ NN . 
+It is generally believed that cricket originated as a children 's game in the south-eastern counties of England , sometime during the medieval period . 
+IN EX VBP NNS IN JJ NNS , DT JJS JJ NN TO NN VBG VBN VBZ IN NN VBN IN DT NN NN IN NNP IN NNP , CD NNP CD -LRB- VBG NN : VBG TO CD NNP CD IN DT NNP NN -RRB- . 
+Although there are claims for prior dates , the earliest definite reference to cricket being played comes from evidence given at a court case in Guildford on Monday , 17 January 1597 -LRB- Julian calendar ; equating to 30 January 1598 in the Gregorian calendar -RRB- . 
+DT NN VBN NN IN DT JJ NN IN NN CC DT NN VBD DT NN IN DT JJ NN , NNP NNP , WP VBD NN DT : `` VBG DT NN IN DT JJ NN IN NNP NNP CC JJ IN PRP$ NNS VBD NN CC NN RB IN NN CC JJ NNS '' . 
+The case concerned ownership of a certain plot of land and the court heard the testimony of a 59-year-old coroner , John Derrick , who gave witness that : `` Being a scholler in the ffree schoole of Guldeford hee and diverse of his fellows did runne and play there at creckett and other plaies '' . 
+VBN NNP POS NN , PRP VBD RB PDT DT NN JJR WRB PRP VBD IN NN CC IN PRP VBZ JJ IN NN VBD VBG VBN IN CD IN NNS IN NNP . 
+Given Derrick 's age , it was about half a century earlier when he was at school and so it is certain that cricket was being played since 1550 by boys in Surrey . 
+DT NN IN PRP VBD RB DT NNS POS NN VBZ VBN IN NNP NNP POS CD JJ NN IN WDT PRP VBD DT NN `` FW '' IN `` DT JJ NN NNP NNPS VBP IN NN '' CC DT NN VBP `` NNP '' RB `` TO VB IN NN '' . 
+The view that it was originally a children 's game is reinforced by Randle Cotgrave 's 1611 English-French dictionary in which he defined the noun `` crosse '' as `` the crooked staff wherewith boys play at cricket '' and the verb form `` crosser '' as `` to play at cricket '' . 
+CD JJ NN IN DT NN POS NN VBZ DT JJ JJ NN `` NN '' -LRB- CC `` NNP '' -RRB- VBG DT NN CC NN . 
+One possible source for the sport 's name is the Old English word `` cryce '' -LRB- or `` cricc '' -RRB- meaning a crutch or staff . 
+IN NNP NNP POS NN , PRP VBD NN IN `` NNP , NNP , DT NN '' . 
+In Samuel Johnson 's Dictionary , he derived cricket from `` cryce , Saxon , a stick '' . 
+IN NNP NNP , DT NN `` NN '' VBZ TO VB VBN DT NN IN NNP CC NNP . 
+In Old French , the word `` criquet '' seems to have meant a kind of club or stick . 
+VBN DT JJ JJ NN NNS IN NNP NNP CC DT NN IN NNS WRB DT NN VBD TO DT NN IN NNP , DT NN MD VB VBN VBN IN DT NNP NNPS -LRB- IN NN IN NNS IN DT NN -RRB- `` NNP '' -LRB- NNP NNP -RRB- , VBG DT NN -LRB- NN -RRB- . 
+Given the strong medieval trade connections between south-east England and the County of Flanders when the latter belonged to the Duchy of Burgundy , the name may have been derived from the Middle Dutch -LRB- in use in Flanders at the time -RRB- `` krick '' -LRB- - e -RRB- , meaning a stick -LRB- crook -RRB- . 
+DT JJ NN VBZ DT JJ JJ NN `` NN '' , VBG DT JJ JJ NN VBN IN VBG IN NN CC WDT VBD DT JJ JJ NN IN CD NNS VBN IN JJ NN . 
+Another possible source is the Middle Dutch word `` krickstoel '' , meaning a long low stool used for kneeling in church and which resembled the long low wicket with two stumps used in early cricket . 
+VBG TO NNP NNP , DT JJ NN NN IN NNP NNP , `` NN '' VBZ IN DT JJ JJ NN IN NN , NNP NNP -LRB- NNP NNP -RRB- NNP -LRB- VBN , `` IN DT NNP NNP '' -RRB- . 
+According to Heiner Gillmeister , a European language expert of Bonn University , `` cricket '' derives from the Middle Dutch phrase for hockey , met de -LRB- krik ket -RRB- sen -LRB- i.e. , `` with the stick chase '' -RRB- . 
+NNP VBZ VBN DT RB JJ DT NN CC RB DT NN PRP MD VB IN JJ NN . 
+Gillmeister has suggested that not only the name but also the sport itself may be of Flemish origin . 
+IN DT JJ NN IN DT NN VBZ RB VBN TO VB DT JJS NNS , DT JJ NN IN NN VBN IN DT JJ NN IN JJ JJ JJ NNS . 
+Although the main object of the game has always been to score the most runs , the early form of cricket differed from the modern game in certain key technical aspects . 
+DT NN VBD VBN NN IN DT NN CC DT IN DT NN IN DT NNP NNP IN DT NN WDT , IN NN , VBD DT NN VBP : DT NN VBD DT JJ , JJ NN : CC NNS VBD VBN `` NNS '' IN DT NNS VBD PRP IN VBG NN VBZ . 
+The ball was bowled underarm by the bowler and all along the ground towards a batsman armed with a bat that , in shape , resembled a hockey stick ; the batsman defended a low , two-stump wicket ; and runs were called `` notches '' because the scorers recorded them by notching tally sticks . 
+IN CD , DT NN NN POS NN VBD VBN , NNP NNP VBZ IN NNP IN NNP NNP IN CD NNS , NNP NNP CC NNP NN , VBD TO VB NN IN NNP NNP IN PRP VBD VBG NN . 
+In 1611 , the year Cotgrave 's dictionary was published , ecclesiastical court records at Sidlesham in Sussex state that two parishioners , Bartholomew Wyatt and Richard Latter , failed to attend church on Easter Sunday because they were playing cricket . 
+PRP VBD VBN NNS DT CC VBN TO VB NN . 
+They were fined 12d each and ordered to do penance . 
+DT VBZ DT JJS NN IN JJ NN IN NN CC PRP VBD IN DT JJ NN IN DT JJS JJ JJ NN CC NN NN VBD VBN IN NNP , NNP . 
+This is the earliest mention of adult participation in cricket and it was around the same time that the earliest known organised inter-parish or village match was played at Chevening , Kent . 
+IN CD , DT NN VBD NNP NNP VBD IN PRP VBD RB VBN IN DT NN IN DT NN IN CD JJ NNS IN NNP . 
+In 1624 , a player called Jasper Vinall died after he was accidentally struck on the head during a match between two parish teams in Sussex . 
+NN VBD DT JJ JJ NN IN RB IN DT NN . 
+Cricket remained a low-key local pursuit for much of the century . 
+PRP VBZ VBN , IN JJ NNS VBN IN DT NNS IN JJ NN NNS , TO VB VBN VBN IN NNS IN DT NNS IN CC IN DT NN . 
+It is known , through numerous references found in the records of ecclesiastical court cases , to have been proscribed at times by the Puritans before and during the Commonwealth . 
+DT NN VBD RB RB DT NN IN NNP NN IN DT NNS VBD NN TO VB `` JJ '' IN VBD IN DT NN , RB IN JJ NNS or gambling were involved . 
+The problem was nearly always the issue of Sunday play as the Puritans considered cricket to be `` profane '' if played on the Sabbath , especially if large crowds and VBD NN VBD VBN 
+VBG TO DT JJ NN NNP NNP , EX VBD DT `` JJ NN IN NN IN DT NN '' IN CD . 
+According to the social historian Derek Birley , there was a `` great upsurge of sport after the Restoration '' in 1660 . 
+NN IN NN VBD DT NN JJ RB IN NNP TO VB DT CD NN NN , VBG NNS TO CD WDT VBD IN DT NN DT JJ NN VBG DT JJ NN IN CD NN IN DT NN . 
+Gambling on sport became a problem significant enough for Parliament to pass the 1664 Gambling Act , limiting stakes to 100 which was in any case a colossal sum exceeding the annual income of 99 % of the population . 
+IN IN NN , NN NN CC NN NNS , NN VBD VBN TO VB DT VBG NN . 
+Along with prizefighting , horse racing and blood sports , cricket was perceived to be a gambling sport . 
+NNP NNP VBN VBZ IN JJ NNS , VBG NNS IN WDT PRP VBD DT JJ JJ NNS . 
+Rich patrons made matches for high stakes , forming teams in which they engaged the first professional players . 
+IN DT NN IN DT NN , NN VBD VBN IN DT JJ NN WDT VBD VBG IN NNP CC VBD RB VBG VBN RB IN JJ NNS CC VBZ DT JJS NN TO NN RB VBZ VBN CD . 
+By the end of the century , cricket had developed into a major sport which was spreading throughout England and was already being taken abroad by English mariners and colonisers the earliest reference to cricket overseas is dated 1676 . 
+DT CD NN NN VBZ IN `` DT JJ NN NN '' VBN IN NNP `` IN CD NNS RB '' DT VBZ DT JJS VBN NN TO DT JJ NN . 
+A 1697 newspaper report survives of `` a great cricket match '' played in Sussex `` for fifty guineas apiece '' this is the earliest known reference to an important match . 
+DT NN , CC JJ NNS IN DT JJ NN VBN IN DT `` NN '' , VBD TO VB PRP IN `` NNS '' TO VB DT JJ NN NN : : VBG DT NNS , WP VBD RB NNS IN DT VBG NN , RB TO DT NN IN VBG JJ VBG CC VBG NNS . 
+The patrons , and other players from the social class known as the `` gentry '' , began to classify themselves as `` amateurs '' to establish a clear distinction vis - - vis the professionals , who were invariably members of the working class , even to the point of having separate changing and dining facilities . 
+DT NN , VBG JJ JJ NNS IN DT NNS IN NNP , VBN PRP$ NN NN IN NNP NNP TO NN NNS IN NN IN DT NN VBZ PRP VBD NN IN , RB IN PRP VBD JJ IN PRP TO VB IN PRP$ `` JJ NNS '' IN PRP VBD TO VB PRP$ NNS . 
+The gentry , including such high-ranking nobles as the Dukes of Richmond , exerted their honour code of noblesse oblige to claim rights of leadership in any sporting contests they took part in , especially as it was necessary for them to play alongside their `` social inferiors '' if they were to win their bets . 
+IN NN , DT NN VBD VB IN DT JJ NN WP VBD IN JJ NN , IN CD WRB NNP VBD VBN , VBD NN IN DT JJ NN NN WP VBD RB VBN TO CD IN NNP CC NNP NNP NNP VBD IN JJ NNS VBD `` NNS CC NNS '' WP$ NNS VBD TO VB NN . 
+In time , a perception took hold that the typical amateur who played in first-class cricket , until 1962 when amateurism was abolished , was someone with a public school education who had then gone to one of Cambridge or Oxford University society insisted that such people were `` officers and gentlemen '' whose destiny was to provide leadership . 
+IN DT RB JJ NN , DT NNP NNP MD RB VB NNS IN VBG IN PRP$ JJ NN VBD IN NN CC VBD VBN DT NN CC VB NN : IN NN , JJ NNS VBD RB JJR IN JJ NN CC DT JJ NN `` NN '' VBD VBN TO VB DT NN . 
+In a purely financial sense , the cricketing amateur would theoretically claim expenses for playing while his professional counterpart played under contract and was paid a wage or match fee ; in practice , many amateurs claimed somewhat more than actual expenditure and the derisive term `` shamateur '' was coined to describe the syndrome . 
+DT NN VBD JJ NN IN DT JJ NN TO VB NNP POS JJ NN . 
+The game underwent major development in the 18th century to become England 's national sport . 
+PRP$ NN VBD VBN IN DT JJ NNS IN NNP CC NNP . 
+Its success was underwritten by the twin necessities of patronage and betting . 
+NN VBD JJ IN NNP IN RB RB CD CC , IN DT JJ NNS IN DT NN , JJ NNS VBD TO VB IN DT NN NN IN NNP . 
+Cricket was prominent in London as early as 1707 and , in the middle years of the century , large crowds flocked to matches on the Artillery Ground in Finsbury . 
+DT JJ NN NN IN DT NN VBD JJ NNS CC NNS TO NN , PRP$ NN VBG IN DT CD NN . 
+The single wicket form of the sport attracted huge crowds and wagers to match , its popularity peaking in the 1748 season . 
+NN VBD DT NN IN CD WRB NNS VBD TO VB DT NN RB IN VBG CC VBG PRP IN DT NN . 
+Bowling underwent an evolution around 1760 when bowlers began to pitch the ball instead of rolling or skimming it towards the batsman . 
+DT VBD DT NN IN NN NN IN , TO VB IN DT VBG NN , PRP VBD JJ TO VB DT JJ JJ NN IN NN IN DT JJ `` NNPS NNP '' NN . 
+This caused a revolution in bat design because , to deal with the bouncing ball , it was necessary to introduce the modern straight bat in place of the old `` hockey stick '' shape . 
+DT NNP NN VBD VBN IN DT NN CC , IN DT JJ CD NNS IN DT NN IN NNP NNP NNP -LRB- NNP -RRB- CC DT NN IN NNP POS JJ NN IN CD , NNP VBD DT DT NN POS JJS NN CC PRP$ JJ NN . 
+The Hambledon Club was founded in the 1760s and , for the next twenty years until the formation of Marylebone Cricket Club -LRB- MCC -RRB- and the opening of Lord 's Old Ground in 1787 , Hambledon was both the game 's greatest club and its focal point . 
+NNP RB VBD DT NN POS JJ NN CC DT NN IN DT NNS IN NN . 
+MCC quickly became the sport 's premier club and the custodian of the Laws of Cricket . 
+JJ NNS VBN IN DT JJ NN IN DT JJ NN VBD DT CD NN NN CC NN IN NN -LRB- NNP -RRB- . 
+New Laws introduced in the latter part of the 18th century included the three stump wicket and leg before wicket -LRB- lbw -RRB- . 
+DT JJ NN VBD NNP NNP VBD IN JJ NN CC RB VBP NN . 
+The 19th century saw underarm bowling superseded by first roundarm and then overarm bowling . 
+DT NNS VBD NNP IN DT NN IN NNP NN VBN TO DT NN IN DT NNP NNPS , VBG IN NNP IN CD . 
+Both developments were controversial.Organisation of the game at county level led to the creation of the county clubs , starting with Sussex in 1839 . 
+IN NNP CD , DT CD VBG NNP NNS VBD DT JJ NNP NN , WDT VBD IN CD . 
+In December 1889 , the eight leading county clubs formed the official County Championship , which began in 1890 . 
+DT RBS JJ NN IN DT JJ NN VBD NNP NNP NNP , WP VBD PRP$ JJ CC JJ NN IN CD . 
+The most famous player of the 19th century was W. G. Grace , who started his long and influential career in 1865 . 
+PRP VBD RB IN DT NN IN NNP IN DT NN IN NNS CC NNS VBD VBD IN DT NN IN NNS IN PRP WP VBD RB JJ CC , IN NNS IN PRP$ JJ NN , FW FW JJ . 
+It was especially during the career of Grace that the distinction between amateurs and professionals became blurred by the existence of players like him who were nominally amateur but , in terms of their financial gain , de facto professional . 
+NNP PRP VBD VBN TO VB VBN VBN JJR NN IN VBG NN IN DT NNP . 
+Grace himself was said to have been paid more money for playing cricket than any professional . 
+DT JJ CD NNS IN DT JJ NN NN VBP VBN VBN DT `` JJ NN IN NN '' . 
+The last two decades before the First World War have been called the `` Golden Age of cricket '' . 
+PRP VBZ DT JJ NN VBN IN DT JJ NN IN NN VBG IN DT NN , CC DT NN VBD VB DT JJ NNS CC JJ NNS , RB IN JJ NN IN NNP CC VB NN VBN . 
+It is a nostalgic name prompted by the collective sense of loss resulting from the war , but the period did produce some great players and memorable matches , especially as organised competition at county and Test level developed . 
+RB , DT JJ NN VBD VBN JJ IN VBG DT NN RB CC IN DT NN IN DT JJ NN PRP VBD VBN RB VBN IN NNP , DT NNP , NNP , NNP NNP , NNP NNP CC NNP NNP . 
+Meanwhile , the British Empire had been instrumental in spreading the game overseas and by the middle of the 19th century it had become well established in Australia , the Caribbean , India , New Zealand , North America and South Africa . 
+IN CD , DT JJ JJ NN VBD NN IN DT NNP NNPS CC NNP . 
+In 1844 , the first-ever international match took place between the United States and Canada . 
+IN CD , DT NN IN JJ NNS VBD TO NNP NNP IN DT JJ JJ NN . 
+In 1859 , a team of English players went to North America on the first overseas tour . 
+DT JJ JJ NN TO NN RB VBD IN NNP NNP WP VBD NNP IN CD . 
+The first Australian team to travel overseas consisted of Aboriginal stockmen who toured England in 1868 . 
+IN CD , DT JJ NN VBD DT JJ NN IN NNP . 
+In 1862 , an English team made the first tour of Australia . 
+IN CD CD , DT NNP NN VBD NN IN WP VBD RB VBN IN DT JJ NN NN IN DT NNP NN NN IN NNP . 
+In 1876 77 , an England team took part in what was retrospectively recognised as the first-ever Test match at the Melbourne Cricket Ground against Australia . 
+DT NN IN NNP CC NNP VBD NN TO DT NNS IN CD CC DT VBZ VBN NN NN POS RBS JJ NN . 
+The rivalry between England and Australia gave birth to The Ashes in 1882 and this has remained Test cricket 's most famous contest . 
+NN NN VBD TO VB IN CD CD WRB NNP NNP VBD JJ JJ NNS VBD VBN IN NNP POS NNP NNP , VBG DT JJS NN NN IN DT NN . 
+Test cricket began to expand in 1888 89 when South Africa played England.The inter-war years were dominated by Australia 's Don Bradman , statistically the greatest Test batsman of all time . 
+NN NN VBD TO VB IN DT JJ NN IN DT NN IN DT NNP NNP -LRB- CD -RRB- , NNP NNP -LRB- CD -RRB- CC NNP -LRB- CD -RRB- IN DT JJ NN NN CC RB NNP -LRB- CD -RRB- , NNP NNP -LRB- CD -RRB- , NNP -LRB- CD -RRB- CC NNP -LRB- CD -RRB- IN DT JJ NN . 
+Test cricket continued to expand during the 20th century with the addition of the West Indies -LRB- 1928 -RRB- , New Zealand -LRB- 1930 -RRB- and India -LRB- 1932 -RRB- before the Second World War and then Pakistan -LRB- 1952 -RRB- , Sri Lanka -LRB- 1982 -RRB- , Zimbabwe -LRB- 1992 -RRB- and Bangladesh -LRB- 2000 -RRB- in the post-war period . 
+NNP NNP VBD VBN IN JJ NN IN CD TO CD IN NN IN DT NN NN . 
+South Africa was banned from international cricket from 1970 to 1992 as part of the apartheid boycott . 
+NN VBD DT JJ NN IN CD WRB JJ NNS VBD DT JJ NN NN . 
+Cricket entered a new era in 1963 when English counties introduced the limited overs variant . 
+IN PRP VBD JJ TO VB DT NN , JJ NN NN VBD JJ CC DT NN IN NNP VBD . 
+As it was sure to produce a result , limited overs cricket was lucrative and the number of matches increased . 
+DT JJ JJ NNS NNP VBD VBN IN CD CC DT VBG JJ NN NN -LRB- NNP -RRB- , VBG PRP$ NN , VBD DT JJ NNP NNP NN NN NN IN CD . 
+The first Limited Overs International was played in 1971 and the governing International Cricket Council -LRB- ICC -RRB- , seeing its potential , staged the first limited overs Cricket World Cup in 1975 . 
+IN DT JJ NN , DT JJ JJ NNS NN , NNS , VBD DT JJ NN . 
+In the 21st century , a new limited overs form , Twenty20 , made an immediate impact . 
+IN CD NNP CD , NNP CC NNP VBD DT JJ CC JJ JJ JJ NNS , VBG PRP TO VB NN NN NN , DT NNS IN DT NN VBP VBN IN DT NN VBN DT NNS IN NN -LRB- NNP VBN `` DT NNS '' -RRB- WDT VBZ DT JJ NN . 
+On 22 June 2017 , Afghanistan and Ireland became the 11th and 12th ICC full members , enabling them to play Test cricket.In cricket , the rules of the game are specified in a code called The Laws of Cricket -LRB- hereinafter called `` the Laws '' -RRB- which has a global remit . 
+EX VBP CD NNS -LRB- RB VBN IN DT NN `` NNP '' -RRB- . 
+There are 42 Laws -LRB- always written with a capital `` L '' -RRB- . 
+DT JJS JJ NN IN DT NN VBD VBN IN CD CC , IN CD , PRP VBZ VBN VBN CC VBN IN PRP$ NN , DT JJ NN NN -LRB- NNP -RRB- IN NNP VBZ DT JJ NN VBN IN DT NN NN IN CD NNS IN CD NNS DT . 
+The earliest known version of the code was drafted in 1744 and , since 1788 , it has been owned and maintained by its custodian , the Marylebone Cricket Club -LRB- MCC -RRB- in London.Cricket is a bat-and-ball game played on a cricket field between two teams of eleven players each . 
+DT NN VBZ RB JJ CC JJ IN NN CC DT NN IN DT NN NN VBZ VBN IN DT NN , WDT MD VB DT NN , NN IN DT NNS , DT NN , DT VBN NN CC DT NN IN DT : DT NN MD IN JJ VB VBN IN PRP$ JJ NN . 
+The field is usually circular or oval in shape and the edge of the playing area is marked by a boundary , which may be a fence , part of the stands , a rope , a painted line or a combination of these ; the boundary must if possible be marked along its entire length . 
+IN DT JJ NN IN DT NN VBZ DT JJ NN -LRB- VB NN , RB -RRB- IN WDT DT JJ NN VBD DT NN VBZ VBN IN DT NN : DT NNS VBP VBN CD NNS -LRB- CD CD -RRB- RB . 
+In the approximate centre of the field is a rectangular pitch -LRB- see image , below -RRB- on which a wooden target called a wicket is sited at each end ; the wickets are placed 22 yards -LRB- 20 m -RRB- apart . 
+DT NN VBZ DT JJ NN CD NNS -LRB- CD CD -RRB- JJ , IN RB JJ NN WDT VBZ TO VB VBN RP IN DT NN VBZ -LRB- NN MD RB VB VBN IN JJ NNS , RB VBG -RRB- . 
+The pitch is a flat surface 3 metres -LRB- 9.8 ft -RRB- wide , with very short grass that tends to be worn away as the game progresses -LRB- cricket can also be played on artificial surfaces , notably matting -RRB- . 
+DT NN VBZ VBN IN CD JJ NNS VBN IN CD NNS . 
+Each wicket is made of three wooden stumps topped by two bails . 
+IN NNP IN , DT NN VBZ VBN IN DT NN IN CD JJ VBN NNS : DT VBG NN , DT JJ NN CC CD NN NNS . 
+As illustrated above , the pitch is marked at each end with four white painted lines : a bowling crease , a popping crease and two return creases . 
+DT CD NNS VBP VBN RB IN DT VBG NN , WDT VBZ CD NNS CD NNS JJ . 
+The three stumps are aligned centrally on the bowling crease , which is eight feet eight inches long . 
+DT JJ NN VBZ VBN CD NNS IN NN IN DT VBG NN CC NN TO PRP : IN PRP VBZ VBN IN DT JJ NN -LRB- CD NNS DT NN IN DT NN -RRB- , PRP VBZ IN NN JJ IN NN . 
+The popping crease is drawn four feet in front of the bowling crease and parallel to it ; although it is drawn as a twelve-foot line -LRB- six feet either side of the wicket -RRB- , it is in fact unlimited in length . 
+DT NN NNS VBP VBN IN JJ NNS TO DT JJ NN RB IN PRP VBP DT NNS IN DT VBG NN : DT NN NN VBZ VBN IN DT JJ NN , RB IN PRP VBZ CD NNS IN DT VBG NN , CC VBZ RB IN NN JJ IN NN . 
+The return creases are drawn at right angles to the popping crease so that they intersect the ends of the bowling crease ; each return crease is drawn as an eight-foot line , so that it extends four feet behind the bowling crease , but is also in fact unlimited in length . 
